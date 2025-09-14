@@ -1,2 +1,3 @@
 # Professional-Statement
-I am a highly motivated and enthusiatic about cybersecurity and have a background in computersience as well. I place a high value on maintaining a strong security posture to help protects sensitive information and strop threats.
+Enthusiastic junior Computer Science student with a minor in Cybersecurity and a diverse skill
+set in programming, security, and digital forensics. Proven experience in secure web development, forensic investigations, and technical troubleshooting. Strong communicator and team collaborator with a passion for cloud technologies, cyber security, and solving real-world engineering challenges.
