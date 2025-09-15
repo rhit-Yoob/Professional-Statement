@@ -1,3 +1,2 @@
 # Professional-Statement
-Enthusiastic junior Computer Science student with a minor in Cybersecurity and a diverse skill
-set in programming, security, and digital forensics. Proven experience in secure web development, forensic investigations, and technical troubleshooting. Strong communicator and team collaborator with a passion for cloud technologies, cyber security, and solving real-world engineering challenges.
+Enthusiastic junior Computer Science student with a minor in Cybersecurity and a growing interest in cloud computing. Skilled in programming, secure web development, and systems troubleshooting, with experience in backend development and database integration. A strong communicator and team collaborator who enjoys working on practical, real-world problems. Eager to deepen knowledge in cloud technologies and apply emerging skills to build scalable, secure solutions.
